@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavoniewerth" alt="gustavoniewerth" /> </p>
 
-- 🌱 I’m currently learning **html, css, bootstrap, java**
+- 🌱 I’m currently learning **Python, Swift, Data Modeling**
 - Brazilian 💚, skateboarder 🛹 and coder 💻
 
 <p align="center">
